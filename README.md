@@ -72,7 +72,6 @@ mas-rd-course-5/
 ### Приклад відпрацювання 
 ```
 uv run main.py
-warning: `VIRTUAL_ENV=/Users/boryspetriaiev/Desktop/mas-rd-course-5/.venv` does not match the project environment path `.venv` and will be ignored; use `--active` to target the active environment instead
 🔄 Loading vector store...
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 Loading weights: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 201/201 [00:00<00:00, 6542.97it/s]
